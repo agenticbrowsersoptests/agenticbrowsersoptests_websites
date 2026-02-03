@@ -6,7 +6,7 @@ submission titled "Agentic Browsers and the Same-Origin Policy".
 
 These websites must be hosted on two separate domains for 
 testing. In this repository, we have replaced the domains 
-with anonymized placeholders A.com and B.com -- these must 
+with anonymized placeholders `A.com` and `B.com` -- these must 
 be replaced with real domains hosting the websites for them
 to function correctly.
 
