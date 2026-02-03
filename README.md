@@ -26,7 +26,7 @@ are included in full in Section 3.3 of the paper.
 * `other.html` : Used as described in Section 3.3
 * `outer-cross.html` : Used as described in Section 3.3
 * `outer-same.html` : Used as described in Section 3.3
-* `poc.html` : Used for proof-of-concept cross-origin outer-from-inner frame data theft (Figure 2)
+* `poc.html` : Used for proof-of-concept cross-origin outer-from-inner-frame data theft (Figure 2)
 * `poc2.html` : Variant of `poc.html` which attempts a full prompt injection
 * `poc3-frame.html` : Used with `B.com/poc3.html`
 * `poc4-frame.html` : Used with `B.com/poc4.html`
@@ -37,6 +37,6 @@ are included in full in Section 3.3 of the paper.
 * `bob2.html` : Used for additional experiments in Section 4.3
 * `inner.html` : Used as described in Section 3.3
 * `other.html` : Used as described in Section 3.3
-* `poc3.html` : Used for proof-of-concept cross-origin inner-from-outer frame data theft
+* `poc3.html` : Used for proof-of-concept cross-origin inner-from-outer-frame data theft
 * `poc4.html` : Used for proof-of-concept JavaScript injection attack (Figure 3)
 * `summary.php` : Form submission destination for proofs-of-concept
